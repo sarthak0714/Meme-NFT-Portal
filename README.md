@@ -1,8 +1,8 @@
-### Mint Your Sussy Meme Titles
+# Mint Your Sussy Meme Titles
 
 thankyou [buildspace](https://buildspace.so/)
 
-## Live Link
+### Live Link
 
 [Live](https://vitejs.dev/) Go Go Go.
 
