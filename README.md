@@ -1,6 +1,8 @@
 ### Mint Your Sussy Meme Titles
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+thankyou [buildspace](https://buildspace.so/)
+
+## Live Link
 
 [Live](https://vitejs.dev/) Go Go Go.
 
